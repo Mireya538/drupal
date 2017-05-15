@@ -1,0 +1,15 @@
+# Schema for the theme setting configuration file of the THEMETITLE theme.
+
+THEMENAME.settings:
+  type: theme_settings
+  label: 'labDrupal settings'
+  region_wells:
+    navegation: ''
+    navegation_collapsible: ''
+    header: ''
+    highlighted: ''
+    help: ''
+    content: ''
+    sidebar_first: ''
+    sidebar_second: well
+    footer: ''
